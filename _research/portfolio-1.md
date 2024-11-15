@@ -6,6 +6,6 @@ collection: research
 
 - 12 galaxies - range of properties
 
-<img src='/images/ngc5921.png' width='300'>"
+<img src='/images/ngc5921.png' width='500'>
 
 
