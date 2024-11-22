@@ -173,7 +173,7 @@
    ========================================================================== */
 
 .greedy-nav {
-  position: fixed;
+  position: relative;
   min-width: 250px;
   background: #2e5968;
 
@@ -207,7 +207,7 @@
 
     li {
       display: table-cell;
-      vertical-align: middle;
+      vertical-align: right;
 
       &:first-child {
         font-weight: bold;
