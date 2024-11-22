@@ -4,7 +4,7 @@ excerpt: "We have a sample of twelve nearby galaxies for which we are measuring 
 collection: research
 ---
 
-- 12 galaxies - range of properties
+12 galaxies - range of properties
 
 <img src='./images/ngc5921.png' width="350">
 
