@@ -83,7 +83,7 @@ publication_category:
     title: 'Other'
 
 # Site Settings
-teaser                   : "ngc5921.png"
+teaser                   : "images/ngc5921.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
