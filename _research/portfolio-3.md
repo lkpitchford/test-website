@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: research
 title:  "We all wait for summer"
 categories: [ Jekyll, tutorial ]
 image: images/ngc5921.png
